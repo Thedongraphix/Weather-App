@@ -78,12 +78,21 @@ body {
     width: 40px;
     margin-right: 10px;
 }
-.humiity, .wind{
+.humidity, .wind{
     font-size: 28px;
     margin-top: -6px;
 }
-
-
+.weather{
+    display:none;
+}
+.error{
+    margin-left:10px;
+    color:#fff;
+    text-align: left;
+    margin-top: 10px;
+    font-size: 14px;
+    display: none;
+}
 
 
 
